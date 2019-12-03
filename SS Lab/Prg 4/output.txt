@@ -1,0 +1,7 @@
+Keyword int at line : 1
+Keyword int at line : 1
+
+Identifier good at line : 1
+
+Identifier int980 at line : 1
+
